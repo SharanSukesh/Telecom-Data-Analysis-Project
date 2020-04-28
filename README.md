@@ -8,7 +8,7 @@
 * [Dataset used](#dataset-used)
 * [Built on](#built-on)
 * [Questions answered](#questions-answered)
-* [Model Training and Testing Steps](#model-training-and-testing-steps)
+* [Hypotheses Tested](#hypotheses-tested)
 * [Ackowledgements](#ackowledgements)
 * [Author](#author)
 
