@@ -14,7 +14,8 @@
 
 
 ## About the Project 
-Exploratory Data Analysis of a telecommuncation service provider's dataset to answer the problem statement given.</br></br>
+
+Exploratory Data Analysis of a telecommuncation service provider's dataset to answer the problem statement given.</br>
 
 Our objective in this project is to build a dashboard to understand the user's demographic characteristics based on their mobile usage, geolocation, and mobile device properties. Doing so will help developers, brand advertisers and other telecom companies around the world to pursue data-driven marketing efforts which are relevant to their users and catered to their preferences.
 
@@ -64,7 +65,7 @@ from matplotlib.colors import Normalize
 2. A customers gender does not influence the brand of phone they decide to use.
 
 ## Ackowledgements
-* <a href='https://www.insaid.co/'>INSAID</a> - dataset
+* <a href='https://www.insaid.co/'>INSAID</a> - Dataset
 
 ## Author - Sharan Sukesh
 
